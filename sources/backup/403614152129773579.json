@@ -1,0 +1,145 @@
+{
+  "name": "CryptoFambi",
+  "id": "403614152129773579",
+  "sources": {
+    "98245066530_https://journalducoincom/": {
+      "title": "Journal du Coin",
+      "link": "https://journalducoin.com/feed",
+      "channel": "403830813944446976",
+      "maxAge": 3,
+      "roleSubscriptions": [
+        {
+          "roleID": "403628724614070272",
+          "roleName": "Suscriber"
+        }
+      ],
+      "embedMessage": {
+        "properties": {
+          "color": 3447003,
+          "imageURL": "{image2}",
+          "thumbnailURL": "{image1}",
+          "authorTitle": "{author}",
+          "authorAvatarURL": "https://i2.wp.com/journalducoin.com/m/2017/10/JDC2-reseaux1-04.png?fit=32%2C32&#038;ssl=1",
+          "message": "{description}",
+          "footerText": "{date}",
+          "url": "{link}"
+        }
+      }
+    },
+    "30848693463_https://wwwredditcom/r/CryptoCurrency": {
+      "title": "Reddit - Cryptocurrency news and discussions.",
+      "link": "https://www.reddit.com/r/CryptoCurrency.rss",
+      "channel": "403614285374423041",
+      "roleSubscriptions": [
+        {
+          "roleID": "403628724614070272",
+          "roleName": "Suscriber"
+        }
+      ]
+    },
+    "70433445075_https://cryptocurrencynewscom/": {
+      "title": "Crypto Currency News",
+      "link": "https://cryptocurrencynews.com/category/icos/feed",
+      "channel": "403834761505669122",
+      "roleSubscriptions": [
+        {
+          "roleID": "403628724614070272",
+          "roleName": "Suscriber"
+        }
+      ]
+    },
+    "21592013668_https://cryptocurrencynewscom/": {
+      "title": "Crypto Currency News",
+      "link": "https://cryptocurrencynews.com/category/basic-materials/business/feed",
+      "channel": "403836883567902721",
+      "roleSubscriptions": [
+        {
+          "roleID": "403628724614070272",
+          "roleName": "Suscriber"
+        }
+      ]
+    },
+    "31939859741_https://cryptocurrencynewscom/": {
+      "title": "Crypto Currency News",
+      "link": "https://cryptocurrencynews.com/category/basic-materials/daily-news/bitcoin-news/feed",
+      "channel": "403840966508806154",
+      "roleSubscriptions": [
+        {
+          "roleID": "403628724614070272",
+          "roleName": "Suscriber"
+        }
+      ]
+    },
+    "52122431655_https://cryptocurrencynewscom/": {
+      "title": "Crypto Currency News",
+      "link": "https://cryptocurrencynews.com/category/basic-materials/daily-news/ethereum-news/feed",
+      "channel": "403841341035118592",
+      "roleSubscriptions": [
+        {
+          "roleID": "403628724614070272",
+          "roleName": "Suscriber"
+        }
+      ]
+    },
+    "28012484337_https://cryptocurrencynewscom/": {
+      "title": "Crypto Currency News",
+      "link": "https://cryptocurrencynews.com/category/blockchain/feed",
+      "channel": "403842438055067648",
+      "roleSubscriptions": [
+        {
+          "roleID": "403628724614070272",
+          "roleName": "Suscriber"
+        }
+      ]
+    },
+    "71367158794_https://cryptocurrencynewscom/": {
+      "title": "Crypto Currency News",
+      "link": "https://cryptocurrencynews.com/category/cryptocurrency-101/bitcoin-101/feed",
+      "channel": "403840966508806154",
+      "roleSubscriptions": [
+        {
+          "roleID": "403628724614070272",
+          "roleName": "Suscriber"
+        }
+      ]
+    },
+    "46326245644_https://cryptocurrencynewscom/": {
+      "title": "Crypto Currency News",
+      "link": "https://cryptocurrencynews.com/category/cryptocurrency-101/ethereum-101/feed",
+      "channel": "403841341035118592",
+      "roleSubscriptions": [
+        {
+          "roleID": "403628724614070272",
+          "roleName": "Suscriber"
+        }
+      ]
+    },
+    "74860465412_https://cryptocurrencynewscom/": {
+      "title": "Crypto Currency News",
+      "link": "https://cryptocurrencynews.com/category/basic-materials/technology/feed",
+      "channel": "403843631187755008",
+      "roleSubscriptions": [
+        {
+          "roleID": "403628724614070272",
+          "roleName": "Suscriber"
+        }
+      ]
+    },
+    "29024350731_https://wwwcoindeskcom/": {
+      "title": "CoinDesk",
+      "link": "https://www.coindesk.com/feed",
+      "channel": "403933774523662336",
+      "roleSubscriptions": [
+        {
+          "roleID": "403628724614070272",
+          "roleName": "Suscriber"
+        }
+      ]
+    },
+    "83919775210_https://cointelegraphcom/": {
+      "title": "Cointelegraph.com News",
+      "link": "https://cointelegraph.com/feed",
+      "channel": "403934295527522305"
+    }
+  }
+}
