@@ -6,11 +6,11 @@
     "showUnfiltered": true
   },
   "botSettings": {
-    "token": "",
+    "token": "NDAzNjA5MjE4NDAzMjcwNjY5.DUfKNg.svYmDYzTQYcclKJXqWZLZdghTw4",
     "enableCommands": true,
     "prefix": "~",
-    "defaultGame": "",
-    "controllerIds": [],
+    "defaultGame": "BitchIAintPlayin",
+    "controllerIds": [336850145306083328],
     "menuColor": 7833753,
     "deleteMenus": false
   },
@@ -25,7 +25,7 @@
   "feedSettings": {
     "refreshTimeMinutes": 15,
     "checkTitles": false,
-    "timezone": "America/New_York",
+    "timezone": "Europe/Paris",
     "timeFormat": "ddd, D MMMM YYYY, h:mm A z",
     "dateFallback": false,
     "timeFallback": false,
