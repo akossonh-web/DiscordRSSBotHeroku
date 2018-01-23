@@ -10,7 +10,7 @@
     "enableCommands": true,
     "prefix": "~",
     "defaultGame": "BitchIAintPlayin",
-    "controllerIds": "process.env.CONTROLLER_ID",
+    "controllerIds": ["process.env.CONTROLLER_ID"],
     "menuColor": 7833753,
     "deleteMenus": false
   },
