@@ -29,7 +29,7 @@
     "timeFormat": "ddd, D MMMM YYYY, h:mm A z",
     "dateFallback": false,
     "timeFallback": false,
-    "maxFeeds": 5,
+    "maxFeeds": 0,
     "failLimit": 0,
     "notifyFail": true,
     "sendOldMessages": false,
