@@ -1,16 +1,16 @@
 {
   "logging": {
     "logDates": true,
-    "discordChannelLog": "",
+    "discordChannelLog": "process.env.CHANNEL_LOG",
     "showLinkErrs": true,
     "showUnfiltered": true
   },
   "botSettings": {
-    "token": "NDAzNjA5MjE4NDAzMjcwNjY5.DUfKNg.svYmDYzTQYcclKJXqWZLZdghTw4",
+    "token": "process.env.BOT_TOKEN",
     "enableCommands": true,
     "prefix": "~",
     "defaultGame": "BitchIAintPlayin",
-    "controllerIds": [336850145306083328],
+    "controllerIds": "process.env.CONTROLLER_ID",
     "menuColor": 7833753,
     "deleteMenus": false
   },
