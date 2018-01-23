@@ -6,7 +6,6 @@
       "title": "Journal du Coin",
       "link": "https://journalducoin.com/feed",
       "channel": "403830813944446976",
-      "maxAge": 3,
       "roleSubscriptions": [
         {
           "roleID": "403628724614070272",
@@ -134,39 +133,6 @@
           "roleName": "Suscriber"
         }
       ]
-    },
-    "VitalikButerins_tweets": {
-      "link": "https://queryfeed.net/twitter?q=https%3A%2F%2Ftwitter.com%2FVitalikButerin",
-      "channel": "403847517520789505",
-      "maxAge": 2,
-      "message": "{empty}",
-      "embedMessage": {
-        "properties": {
-          "color": 3447003,
-          "authorTitle": "Vitalik Buterin @VitalikButerin",
-          "authorAvatarURL": "https://pbs.twimg.com/profile_images/421617820644810752/rncc5OWi_400x400.jpeg",
-          "thumbnailURL": "{image1}",
-          "message": "{description}",
-          "footerText": "{date}"
-        }
-      }
-    },
-    "WarframeTwitter": {
-      "link": "https://queryfeed.net/tw?q=%40PlayWarframe",
-      "channel": "403847517520789505",
-      "maxAge": 2,
-      "message": "{empty}",
-      "embedMessage": {
-        "properties": {
-          "color": 3447003,
-          "authorTitle": "Warframe @PlayWarframe",
-          "authorAvatarURL": "http://icons.iconarchive.com/icons/uiconstock/socialmedia/512/Twitter-icon.png",
-          "thumbnailURL": "https://pbs.twimg.com/profile_images/797287460199862272/mG1KEwQ2.jpg",
-          "message": "{description}",
-          "footerText": "{date}",
-          "url": ""
-        }
-      }
     }
   }
 }
