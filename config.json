@@ -8,7 +8,7 @@
   "botSettings": {
     "token": "NDAzNjA5MjE4NDAzMjcwNjY5.DUgOUA.2PA6DkGTBKgBdCnoKQuwcYJovEk",
     "enableCommands": true,
-    "prefix": "~",
+    "prefix": "!",
     "defaultGame": "BitchIAintPlayin",
     "controllerIds": ["336850145306083328"],
     "menuColor": 7833753,
