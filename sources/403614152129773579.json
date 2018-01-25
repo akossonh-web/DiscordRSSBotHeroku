@@ -135,7 +135,7 @@
       ]
     },
     "VitalikButerins_tweets": {
-      "link": "https://queryfeed.net/twitter?q=https%3A%2F%2Ftwitter.com%2FVitalikButerin",
+      "link": "https://twitrss.me/twitter_user_to_rss/?user=VitalikButerin",
       "channel": "403847517520789505",
       "title": "Vitalik Buterin Tweets feed",
       "message": "{empty}",
