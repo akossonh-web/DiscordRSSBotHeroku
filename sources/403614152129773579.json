@@ -147,7 +147,8 @@
           "authorAvatarURL": "https://g.twimg.com/dev/img/marketing/twitter-for-websites/header-logo.png",
           "thumbnailURL": "https://pbs.twimg.com/profile_images/421617820644810752/rncc5OWi_400x400.jpeg",
           "message": "{description}",
-          "footerText": "{date}"
+          "footerText": "{date}",
+          "url": "{link}"
         }
       }
     }
