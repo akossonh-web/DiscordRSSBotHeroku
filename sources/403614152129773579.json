@@ -133,6 +133,23 @@
           "roleName": "Suscriber"
         }
       ]
+    },
+    "VitalikButerins_tweets": {
+      "link": "https://queryfeed.net/twitter?q=https%3A%2F%2Ftwitter.com%2FVitalikButerin",
+      "channel": "403847517520789505",
+      "message": "{empty}",
+      "embedMessage": {
+        "enabled": 1,
+        "properties": {
+          "color": 3447003,
+          "authorTitle": "Vitalik Buterin @VitalikButerin",
+          "authorAvatarURL": "https://pbs.twimg.com/profile_images/421617820644810752/rncc5OWi_400x400.jpeg",
+          "thumbnailURL": "{image1}",
+          "message": "{description}",
+          "footerText": "{date}",
+          "url": "{link}"
+        }
+      }
     }
   }
 }
