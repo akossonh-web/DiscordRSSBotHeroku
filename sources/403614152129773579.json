@@ -137,6 +137,7 @@
     "VitalikButerins_tweets": {
       "link": "https://queryfeed.net/twitter?q=https%3A%2F%2Ftwitter.com%2FVitalikButerin",
       "channel": "403847517520789505",
+      "title": "Vitalik Buterin Tweets feed",
       "message": "{empty}",
       "embedMessage": {
         "enabled": 1,
